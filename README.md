@@ -8,9 +8,19 @@ Obsah
 - startOprava1.ps1 — PowerShell skript provádějící opravy
 - Tento README — postup a vysvětlení kroků
 
-Jak použít
+Jak použít 
+👉🌐https://youtu.be/k5JfagK5TBk🌐👈
+0. Otevřít Tento počítač/Jakoukoliv složku  
+    - napsat do panelu adresy 
+    Ovládací panely\  
+    -> Velké/malé Ikony 
+    --> NÁSTROJE WINDOWS 
+    --->Windows PowerShell  kliknout pravým tlacitkem myši 
+    -> spustit jako Správce 
+    
 1. Otevřete PowerShell jako Administrátor:
    - Stiskněte Start → napište `powershell` → pravým tlačítkem klikněte na "Windows PowerShell" nebo "Windows Terminal" → Spustit jako správce.
+   - 
 2. Zkopírujte skript na cestu C:\ (pokud jste skript stáhli nebo ho máte v jiném adresáři), v konzoli s právy administrátora spusťte:
    - Kopírování (pokud máte skript ve stejném adresáři, stačí přizpůsobit cestu):
      ```
