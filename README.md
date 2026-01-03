@@ -1,7 +1,9 @@
 slouží k oprave  když nereaguje panel start 
 PowerShell skript, který implementuje postupné kroky opravy – od nejméně invazivních po hloubkovou re-registraci AppX komponent. Skript je navržen pro běh pod právy Administrátora.
+zkopiruj na C:\ pwrshell/terminal jako administrátor. 
 cd C\: 
 C:\.\startOprava1.ps1
+
 Pokud by výše uvedený skript nepomohl, problém může být hlouběji v indexování. Doporučuji zkontrolovat stav služby WSearch (Windows Search):
 PowerShell
 Get-Service -Name "WSearch" | Select-Object -Property Status, StartType
