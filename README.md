@@ -11,11 +11,11 @@ Obsah
 Jak použít 
 👉🌐https://youtu.be/k5JfagK5TBk🌐👈
 0. Otevřít Tento počítač/Jakoukoliv složku  
-    - napsat do panelu adresy 
+- napsat do panelu adresy 
     Ovládací panely\  
-    -> Velké/malé Ikony 
-    --> NÁSTROJE WINDOWS 
-    --->Windows PowerShell  kliknout pravým tlacitkem myši 
+-> Velké/malé Ikony 
+  --> NÁSTROJE WINDOWS 
+  --->Windows PowerShell  kliknout pravým tlacitkem myši 
     -> spustit jako Správce 
     
 1. Otevřete PowerShell jako Administrátor:
