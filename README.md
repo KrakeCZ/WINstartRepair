@@ -10,6 +10,8 @@ Obsah
 
 Jak použít 
 👉🌐https://youtu.be/k5JfagK5TBk🌐👈
+
+
 0. Otevřít Tento počítač/Jakoukoliv složku  
 - napsat do panelu adresy 
     Ovládací panely\  
